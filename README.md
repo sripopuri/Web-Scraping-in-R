@@ -1,7 +1,7 @@
 # Web-Scraping-in-R
 
 Images count: 11,760
-Numeber of Cars: 147
+Number of Cars: 147
 These cars are selected as the top selling passenger cars of the year 2017 in United States of America.
 
 I need to scrape the images for my project. The initial plan is to scrape 80,000 images, but finally I decided that for my project 11,760 images will be sufficient. Hence I am going with this number which includes images of 147 different cars! But with the same piece of code I can go ahead and scrape 80,000 images too.
