@@ -20,4 +20,6 @@ When these images are being scraped, the working directory is changed on the fly
 
 The reason for doing it this way is...Just to have some clean work environment so that I can easily access and clean any folder related to any car if required, rather than dumping all the 11,760 images of data into a single folder. 
 
+Please feel free to check out my other repositories "My work on Data Science", "Indian Liver Patients Dataset"
+
 Sri Harish Popuri, Data Scientist.
