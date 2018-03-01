@@ -19,3 +19,5 @@ Hence to narrow down my scraping to the relevant pictures, I have written my cod
 When these images are being scraped, the working directory is changed on the fly as well as new folders for each of the cars will be created on the fly and finally cars of the specific model fall into single specific folder.
 
 The reason for doing it this way is...Just to have some clean work environment so that I can easily access and clean any folder related to any car if required, rather than dumping all the 11,760 images of data into a single folder. 
+
+Sri Harish Popuri, Data Scientist.
