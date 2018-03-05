@@ -8,7 +8,7 @@ I need to scrape the images for my project. The initial plan is to scrape 80,000
 
 The idea of the project is confidential but, I need some huge volume of pictures of cars. So I need to scrape the data from web.
 
-For my project I need to scrape some perfect images of the cars. You want me define perfect? I need images of cars similar to those which are in the websites of the automobile companies. But with R, it is not possible to scrape images from the secured images.
+For my project I need to scrape some perfect images of the cars. You want me to define perfect? I need images of cars similar to those which are in the websites of the automobile companies. But with R, it is not possible to scrape images from the secured images.
 
 So I decided to go with google images. This piece of code which I have written will get the images of cars from google images tab and arrange them into folders in my local system (in respective folders of cars) which are created on the fly!
 
