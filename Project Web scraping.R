@@ -18,7 +18,7 @@ nrow(car_list)
 sum(is.na(car_list))
 
 # removing any trailing/leading spaces
-car_list[,1] = trimws(car_list[,1])
+car_list[,1] = trimws(car_list[,1]) 
 
 # Replacing spaces with "+"
 replaced = car_list[,1]
