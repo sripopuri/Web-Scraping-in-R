@@ -1,6 +1,6 @@
 # Cleaning my workspace
-rm(list = ls())
-
+rm(list = ls()) 
+ 
 library(rvest) # For Scraping the data
 library(stringr) # For String operations
 
